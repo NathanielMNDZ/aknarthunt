@@ -1,0 +1,15 @@
+{
+  "name": "App",
+  "app_id": "22a68333",
+  "gulpStartupTasks": [
+    "watch"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*"
+  ],
+  "integrations": {
+    "gulp": {}
+  },
+  "type": "ionic1"
+}
